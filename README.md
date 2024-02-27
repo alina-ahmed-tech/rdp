@@ -1,5 +1,5 @@
 # rdp
-Recursive Deterministic Perceptron (RDP)
+Recursive Deterministic Perceptron (RDP) to solve a non-linearly separable classification problem in MATLAB.
 
 A single-layer perceptron neural network is unable to solve non-linearly separable problems. However, the RDP can.<br>
 
